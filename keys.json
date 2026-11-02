@@ -1,0 +1,8 @@
+{
+  "global": {
+    "cmd-s": "mod.open:sentry"
+  },
+  "mod:sentry": {
+    "escape": "sentry.escape"
+  }
+}
